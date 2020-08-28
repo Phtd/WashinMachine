@@ -22,6 +22,7 @@ namespace WashinMachine
                    
                }
                 Console.ReadKey(); // Makes it so you have to press a key in order to proceed in the program
+
             }
         }
     }
